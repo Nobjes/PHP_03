@@ -14,7 +14,11 @@ MAMPを起動<br>
 PHPMyAdminから、DB：ranking_db／ranking_tableを作成<br>
 テーブル内に枠を用意（id, name, first, first_place, img_first, second, second_place, img_second, <br>
 third, third_place, img_third, fourth, fourth_place, img_fourth, fifth, fifth_place, img_fifth）<br>
-newuser.phpを開く<br>
+
+●newuser.phpを開く<br>
+<img width="1439" alt="スクリーンショット 2021-07-03 10 21 06" src="https://user-images.githubusercontent.com/83898539/124339318-af9b0580-dbe8-11eb-8d68-876f9c398759.png"><br>
+
+●login.phpで登録済みIDとPASSを入力<br>
 
 
 ②工夫した点・こだわった点<br>
