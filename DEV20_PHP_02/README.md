@@ -19,7 +19,9 @@ third, third_place, img_third, fourth, fourth_place, img_fourth, fifth, fifth_pl
 <img width="1439" alt="スクリーンショット 2021-07-03 10 21 06" src="https://user-images.githubusercontent.com/83898539/124339318-af9b0580-dbe8-11eb-8d68-876f9c398759.png"><br>
 
 ●login.phpで登録済みIDとPASSを入力<br>
+<img width="1437" alt="スクリーンショット 2021-07-03 10 25 52" src="https://user-images.githubusercontent.com/83898539/124339391-2e903e00-dbe9-11eb-85f0-18a2b6e24fc2.png">
 
+●index.phpに遷移するのでお店情報を登録します。
 
 ②工夫した点・こだわった点<br>
 ・店名だけではなく、店の最寄駅と、画像も登録できるようにした。（DBへの登録までは確認できたが、画像の表示まではできず・・・）<br>
